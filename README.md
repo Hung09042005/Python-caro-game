@@ -1,4 +1,5 @@
 <img width="319" height="461" alt="Caro_9x9" src="https://github.com/user-attachments/assets/e6661d5a-a1de-4bb0-a9ec-2a837ebe1020" />
+
 # Python-caro-game
 Gomoku (Caro) game developed in Python with AI opponent.
 
